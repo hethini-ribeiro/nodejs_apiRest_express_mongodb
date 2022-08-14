@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_apirest_express_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hethini-ribeiro/nodejs_apiRest_express_mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hethini-ribeiro/nodejs_apiRest_express_mongodb/issues"
+  },
+  "homepage": "https://github.com/hethini-ribeiro/nodejs_apiRest_express_mongodb#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
